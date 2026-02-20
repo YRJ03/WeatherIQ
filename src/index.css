@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body.light {
+    background: #ffffff;
+    color: #000000;
+}
+
+body.dark {
+    background: #0f0f0f;
+    color: #ffffff;
+}
+
+.colorful {
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2)) hue-rotate(20deg) saturate(200%) brightness(120%);
+}
