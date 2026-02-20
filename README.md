@@ -12,15 +12,10 @@ Designed with performance and simplicity in mind, WeatherIQ allows users to quic
 
 ---
 
-## 📸 Preview
+## 📸 Project Preview
 
-_Add a screenshot of your project here_
+![WeatherIQ Preview](https://raw.githubusercontent.com/YRJ03/WeatherIQ/main/public/weather-iq.png)
 
-Example:
-
-```
-![WeatherIQ Preview](./public/screenshot.png)
-```
 
 ---
 
