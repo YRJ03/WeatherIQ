@@ -8,8 +8,7 @@ Designed with performance and simplicity in mind, WeatherIQ allows users to quic
 
 ## 🚀 Live Demo
 
-🔗 https://weatheriq.vercel.app  
-*(Replace with your actual deployed link if different)*
+🔗 [https://weatheriq.vercel.app](https://weather-iq-yuvitech.vercel.app/)  
 
 ---
 
