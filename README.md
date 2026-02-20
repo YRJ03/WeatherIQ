@@ -49,7 +49,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WeatherIQ.git
+git clone https://github.com/YRJ03/WeatherIQ.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
